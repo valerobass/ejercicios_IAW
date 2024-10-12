@@ -146,7 +146,7 @@ echo "<br>";
 $num = 10;
 for ($v=2; $v<=$num -1; $v++){
     if ($num %$v ==0){
-    echo $num "es primo"
+    echo $num, "es primo";
     }
 }
 
